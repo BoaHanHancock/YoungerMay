@@ -176,7 +176,7 @@ header{
 	border-radius: 50%;
 	background: #559765;
 	animation: changeMove 1.2s linear infinite;/*调用动画*/
-	transform: scale(0.3);
+	transform: scale(0);
 	
 
 }
